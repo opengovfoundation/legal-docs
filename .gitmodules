@@ -1,0 +1,9 @@
+[submodule "site-policy"]
+	path = site-policy
+	url = git@github.com:opengovfoundation/site-policy.git
+[submodule "work-for-hire"]
+	path = work-for-hire
+	url = git@github.com:opengovfoundation/work-for-hire.git
+[submodule "hr-manual"]
+	path = hr-manual
+	url = git@github.com:opengovfoundation/hr-manual.git
