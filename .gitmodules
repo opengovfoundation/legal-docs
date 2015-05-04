@@ -7,3 +7,6 @@
 [submodule "hr-manual"]
 	path = hr-manual
 	url = git@github.com:opengovfoundation/hr-manual.git
+[submodule "hr-resources"]
+	path = hr-resources
+	url = git@github.com:opengovfoundation/hr-resources.git
