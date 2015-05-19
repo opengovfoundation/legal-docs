@@ -5,10 +5,12 @@ Here is an all-in-one download of all of OpenGov's legal documents, bundled toge
 
 This repo bundles the following:
 
-* [Site Policy](https://github.com/opengovfoundation/site-policy) - Includes our Terms of Service, Privacy Policy, and Copyright notices for use on websites. [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 * [HR Manual](https://github.com/opengovfoundation/hr-manual) - Our Human Resources Manual for employees. [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 * [HR Resources](https://github.com/opengovfoundation/hr-resources) - Additional Human Resources documents. [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
+* [Legal Information](https://github.com/opengovfoundation/legal-information) - All of our legal docs, staff salary information, IRS & tax information, etc.
+* [Site Policy](https://github.com/opengovfoundation/site-policy) - Includes our Terms of Service, Privacy Policy, and Copyright notices for use on websites. [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 * [Work for Hire](https://github.com/opengovfoundation/work-for-hire) - Our fork of the ContractKiller for hiring contractors.  [(CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ## Disclaimer
 This was created based on United States law, and if you're not in the US the policies here might not be legal wherever you are.

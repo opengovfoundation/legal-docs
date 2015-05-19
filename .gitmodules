@@ -10,3 +10,6 @@
 [submodule "hr-resources"]
 	path = hr-resources
 	url = git@github.com:opengovfoundation/hr-resources.git
+[submodule "legal-information"]
+	path = legal-information
+	url = git@github.com:opengovfoundation/legal-information.git
